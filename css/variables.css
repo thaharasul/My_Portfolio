@@ -4,8 +4,8 @@
 
 :root {
   /* Color palette */
-  --color-bg:           #99F3E7;
-  --color-bg-soft:      rgba(153, 243, 231, 0.88);
+  --color-bg:           #a4f9fd;
+  --color-bg-soft:      rgba(164, 249, 253, 0.88);
   --color-surface:      #ffffff;
   --color-text:         #000000;
   --color-text-muted:   rgba(0, 0, 0, 0.72);
