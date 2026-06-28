@@ -464,5 +464,4 @@ The user should only need to replace:
 * resume.pdf
 
 Everything else should already be complete and ready for deployment on GitHub Pages, Netlify, or Vercel.
-# Clients_Portfolio
 # My_Portfolio
