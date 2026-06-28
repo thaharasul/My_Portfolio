@@ -466,4 +466,3 @@ The user should only need to replace:
 Everything else should already be complete and ready for deployment on GitHub Pages, Netlify, or Vercel.
 # Clients_Portfolio
 # My_Portfolio
-# My_Portfolio
