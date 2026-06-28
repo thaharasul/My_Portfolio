@@ -1,4 +1,4 @@
-# Mohammed Nasrullah Portfolio — Project Specification
+# Mohamed Thaha Rasul Portfolio — Project Specification
 
 ## Objective
 

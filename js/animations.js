@@ -34,10 +34,10 @@
     if (!el) return;
 
     const roles = [
-      'Business Analyst',
-      'Product Operations',
-      'Data & Operations Analytics',
-      'KPI Reporting'
+      'Python & AI Developer',
+      'Full-Stack Developer',
+      'LLM Enthusiast',
+      'Problem Solver'
     ];
 
     let roleIndex = 0;

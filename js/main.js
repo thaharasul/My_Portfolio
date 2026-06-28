@@ -31,7 +31,7 @@
 
       showStatus(
         status,
-        'Thank you! Your message has been noted. Please also reach out directly at mdnasrullaah@gmail.com.',
+        'Thank you! Your message has been noted. Please also reach out directly at thaharasxl@gmail.com.',
         'success'
       );
 
