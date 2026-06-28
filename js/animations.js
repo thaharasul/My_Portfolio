@@ -36,8 +36,8 @@
     const roles = [
       'Business Analyst',
       'Product Operations',
-      'Reporting Analyst',
-      'KPI Specialist'
+      'Data & Operations Analytics',
+      'KPI Reporting'
     ];
 
     let roleIndex = 0;

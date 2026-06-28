@@ -496,15 +496,40 @@ textarea {
   left: calc(-1 * var(--space-md));
   background: var(--color-surface);
   border: 1px solid var(--color-border-strong);
-  padding: 0.65rem 1rem;
-  border-radius: var(--radius-sm);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
-  font-family: var(--font-mono);
-  font-size: 0.65rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  white-space: normal;
+  max-width: 220px;
+}
+
+.hero__badge-icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.hero__badge-text {
+  display: grid;
+  line-height: 1.15;
+}
+
+.hero__badge-text span {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
   text-transform: uppercase;
-  white-space: nowrap;
+  letter-spacing: 0.08em;
+}
+
+.hero__badge-text strong {
+  display: block;
+  font-size: 0.9rem;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  color: var(--color-text);
+  text-transform: none;
 }
 
 .hero__scroll {
